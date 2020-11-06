@@ -1,0 +1,7 @@
+*.env.rb
+
+/dist/
+/node_modules/
+
+public/*.js
+public/manifest.json

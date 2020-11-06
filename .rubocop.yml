@@ -1,0 +1,5 @@
+Layout/ArgumentAlignment:
+  EnforcedStyle: with_fixed_indentation
+
+Layout/LineLength:
+  Max: 150
