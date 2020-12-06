@@ -4,7 +4,9 @@ const ManifestPlugin = require("webpack-manifest-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
 module.exports = {
-  entry: [paths.src + "/index.js"],
+  entry: {
+    main: paths.src + "/index.js",
+  },
   output: {
     path: paths.build,
     filename: "[name].[hash].js",

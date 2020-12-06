@@ -1,5 +1,5 @@
 {
-  "name": "rack-sequel-webpack-stack",
+  "name": "roda-sequel-webpack-stack",
   "version": "0.0.1",
   "description": "",
   "main": "frontend/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jsimpson/rack-sequel-webpack-stack"
+    "url": "git@github.com:jsimpson/roda-sequel-webpack-stack"
   },
   "dependencies": {
     "turbolinks": "^5.2.0"
